@@ -1,4 +1,7 @@
 # jd_task
+
+ql repo https://github.com/twjacy/airacg.git "jd_|jx_|js_" "" "function"
+
 ## function目录是脚本引用的必要文件夹,请连同function文件一起放到srcrips目录,一起更新
 
 ## 文件名/filename: _aid_(助力模块), _work_(任务模块) _exchange_(兑换模块)
